@@ -1,15 +1,11 @@
-
 #EXTM3U#
 EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/285px-Ekattor_TV_logo.svg.pngg" group-title="Bangladeshi",Ekattor TV (Bciptv)
-
 http://15.1.5.22:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
 
 EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/180px-ATN_News_Logo_3.GIF" group-title="Bangladeshi",ATN News (Bciptv)
-
 http://15.1.5.10:8082/Atn-News/tracks-v1a1/mono.m3u8
 
 EXTINF:1 tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="Bangladeshi",Jamuna Television (Bciptv)
-
 http://15.1.5.18:8082/jamuna-tv/tracks-v1a1/mono.m3u8
 
 
