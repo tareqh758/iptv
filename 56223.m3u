@@ -1,0 +1,18 @@
+
+#EXTM3U#
+EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/285px-Ekattor_TV_logo.svg.pngg" group-title="Bangladeshi",Ekattor TV (Bciptv)
+http://15.1.5.22:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
+EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/180px-ATN_News_Logo_3.GIF" group-title="Bangladeshi",ATN News (Bciptv)
+http://15.1.5.10:8082/Atn-News/tracks-v1a1/mono.m3u8
+EXTINF:1 tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="Bangladeshi",Jamuna Television (Bciptv)
+http://15.1.5.18:8082/jamuna-tv/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",Star Jalsha (Bciptv)
+http://15.1.5.18:8082/jalsha/tracks-v1a1/mono.m3u8
+#EXTINF:2 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg" group-title="Indian Bangla",Enterr10 Bangla(Bciptv)
+http://15.1.5.14:8082/enterr10-bangla/tracks-v1a1/mono.m3u8
+#EXTINF:3 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/1/16/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="Indian Bangla",Zee Bangla Cinema(Bciptv)
+http://15.1.5.18:8082/zee-bangla-cinema/tracks-v1a1/mono.m3u8?
+#EXTINF:4 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Jalsha_Movies.jpg" group-title="Indian Bangla",Star Jalsha Movies(Bciptv)
+http://15.1.5.18:8082/jalsha-movies/tracks-v1a1/mono.m3u8?
+#EXTINF:4 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Jalsha_Movies.jpg" group-title="Indian Bangla",Star Jalsha Movies(Bciptv)
+
