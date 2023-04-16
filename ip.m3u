@@ -22,9 +22,9 @@ http://15.1.5.10:8082/jalsha-movies/tracks-v1a1/mono.m3u8
 http://15.1.5.14:8082/Sonyaath/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="Indian Bangla",Sun Bangla (Bciptv)
 http://15.1.5.14:8082/sunbangla/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg" group-title="Indian Bangla",Zee Bangla(Bciptv)
+#EXTINF:1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/Zee-Bangla-HD.png" group-title="Indian Bangla",Zee Bangla(Bciptv)
 http://15.1.5.10:8082/zee-bangla/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/Zee-Bangla-HD.png" group-title="Indian Bangla",Zee Bangla Cinema  (Bciptv)
+#EXTINF:1 tvg-logo="https://img.favpng.com/19/20/13/zee-bangla-cinema-logo-zee-cinema-bengali-language-png-favpng-EGC6aFQLMrSkPamz03cLVYU4L.jpg" group-title="Indian Bangla",Zee Bangla Cinema  (Bciptv)
 http://15.1.5.10:8082/zee-bangla-cinema/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555" group-title="Indian Bangla",Colors Bangla Cinema (Bciptv)
 http://15.1.5.14:8082/colore-bangla-cinema/tracks-v1a1/mono.m3u8
@@ -34,3 +34,99 @@ http://15.1.5.14:8082/enterr10-bangla/tracks-v1a1/mono.m3u8
 http://15.1.5.10:8082/1LIVE/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359" group-title="Sports",Star Sport 2 (Bciptv)
 http://15.1.5.10:8082/STAR-SPORTS-2/tracks-v1a1/mono.m3u
+EXTINF:-1 tvg-id="" tvg-name="Criminal Justice: Adhura Sach S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xnfSFGy7Fc4MzGuHxJ7ojLeF12r.jpg" group-title="Disney+Hotstar",Criminal Justice: Adhura Sach S01 E08
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/5047.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loki S01 E01" tvg-logo="http://image.tmdb.org/t/p/w300/gxh0k3aADsYkt9tgkfm2kGn2qQj.jpg" group-title="Disney+Hotstar",Loki S01 E01
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/4547.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dahan: Raakan Ka Rahasya S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tBGg4KgMGZ0nXlp9jCH8mpD0F0p.jpg" group-title="Disney+Hotstar",Dahan: Raakan Ka Rahasya S01 E01
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/4552.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dahan: Raakan Ka Rahasya S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mm410r2snd7nboZXM9N42ChmnpQ.jpg" group-title="Disney+Hotstar",Dahan: Raakan Ka Rahasya S01 E02
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/4553.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dahan: Raakan Ka Rahasya S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/14Ev7KSjkeh5YPd8v9Dfe2UQJx2.jpg" group-title="Disney+Hotstar",Dahan: Raakan Ka Rahasya S01 E03
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/4554.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dahan: Raakan Ka Rahasya S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6EIZynU8PUsTEtd6lXerCcE5X8J.jpg" group-title="Disney+Hotstar",Dahan: Raakan Ka Rahasya S01 E04
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/4555.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dahan: Raakan Ka Rahasya S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/c0B1r5aqUgPjxWIaSvFKkGIqGmz.jpg" group-title="Disney+Hotstar",Dahan: Raakan Ka Rahasya S01 E05
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/4556.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dahan: Raakan Ka Rahasya S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/A5QidviI0JNsYoKOJpuC96znnIP.jpg" group-title="Disney+Hotstar",Dahan: Raakan Ka Rahasya S01 E06
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/4557.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dahan: Raakan Ka Rahasya S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/l85er7l8LuhxLDR4Nusfkocvw68.jpg" group-title="Disney+Hotstar",Dahan: Raakan Ka Rahasya S01 E07
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/4558.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dahan: Raakan Ka Rahasya S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dXNDJwQWPcgVEZ2R7qYSmYsAVwW.jpg" group-title="Disney+Hotstar",Dahan: Raakan Ka Rahasya S01 E08
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/4559.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dahan: Raakan Ka Rahasya S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xqxcnjWnbNuPUgKBuPy4gAjdjly.jpg" group-title="Disney+Hotstar",Dahan: Raakan Ka Rahasya S01 E09
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/4560.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shiksha Mandal S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rTZZnY2J6wVsZ1VdiO5VtxskX7E.jpg" group-title="Hindi",Shiksha Mandal S01 E01
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/4795.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shiksha Mandal S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rTZZnY2J6wVsZ1VdiO5VtxskX7E.jpg" group-title="Hindi",Shiksha Mandal S01 E02
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/4796.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shiksha Mandal S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rTZZnY2J6wVsZ1VdiO5VtxskX7E.jpg" group-title="Hindi",Shiksha Mandal S01 E03
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/4797.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shiksha Mandal S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rTZZnY2J6wVsZ1VdiO5VtxskX7E.jpg" group-title="Hindi",Shiksha Mandal S01 E04
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/4798.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shiksha Mandal S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rTZZnY2J6wVsZ1VdiO5VtxskX7E.jpg" group-title="Hindi",Shiksha Mandal S01 E05
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/4799.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shiksha Mandal S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rTZZnY2J6wVsZ1VdiO5VtxskX7E.jpg" group-title="Hindi",Shiksha Mandal S01 E06
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/4800.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shiksha Mandal S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rTZZnY2J6wVsZ1VdiO5VtxskX7E.jpg" group-title="Hindi",Shiksha Mandal S01 E07
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/4801.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shiksha Mandal S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rTZZnY2J6wVsZ1VdiO5VtxskX7E.jpg" group-title="Hindi",Shiksha Mandal S01 E08
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/4802.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shiksha Mandal S01 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rTZZnY2J6wVsZ1VdiO5VtxskX7E.jpg" group-title="Hindi",Shiksha Mandal S01 E09
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/4803.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jamtara – Sabka Number Ayega S02 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wqWsyazYqBceNMyRIg9q8HSJEcw.jpg" group-title="Netflix",Jamtara – Sabka Number Ayega S02 E01
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/4990.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jamtara – Sabka Number Ayega S02 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wqWsyazYqBceNMyRIg9q8HSJEcw.jpg" group-title="Netflix",Jamtara – Sabka Number Ayega S02 E02
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/4991.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jamtara – Sabka Number Ayega S02 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wqWsyazYqBceNMyRIg9q8HSJEcw.jpg" group-title="Netflix",Jamtara – Sabka Number Ayega S02 E03
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/4992.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jamtara – Sabka Number Ayega S02 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wqWsyazYqBceNMyRIg9q8HSJEcw.jpg" group-title="Netflix",Jamtara – Sabka Number Ayega S02 E04
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/4993.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jamtara – Sabka Number Ayega S02 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wqWsyazYqBceNMyRIg9q8HSJEcw.jpg" group-title="Netflix",Jamtara – Sabka Number Ayega S02 E05
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/4994.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jamtara – Sabka Number Ayega S02 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wqWsyazYqBceNMyRIg9q8HSJEcw.jpg" group-title="Netflix",Jamtara – Sabka Number Ayega S02 E06
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/4995.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jamtara – Sabka Number Ayega S02 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wqWsyazYqBceNMyRIg9q8HSJEcw.jpg" group-title="Netflix",Jamtara – Sabka Number Ayega S02 E07
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/4996.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jamtara – Sabka Number Ayega S02 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wqWsyazYqBceNMyRIg9q8HSJEcw.jpg" group-title="Netflix",Jamtara – Sabka Number Ayega S02 E08
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/4997.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tell Me Lies S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ugRy0VreoZkvkZ6EhJttaLaNJkR.jpg" group-title="English",Tell Me Lies S01 E01
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/5063.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tell Me Lies S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lFDCM9dwujNiIsPrpYyh1y4c3N3.jpg" group-title="English",Tell Me Lies S01 E02
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/5064.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tell Me Lies S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4UShJjwokQnV1u7rRpd2BGG3EfZ.jpg" group-title="English",Tell Me Lies S01 E03
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/5065.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tell Me Lies S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/c1XoZoQq9IrenpkX9zgUSRvMlZG.jpg" group-title="English",Tell Me Lies S01 E04
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/5066.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tell Me Lies S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fEYnFd7WQTJ1ovUIPysReoSd6h2.jpg" group-title="English",Tell Me Lies S01 E05
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/5067.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tell Me Lies S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7UaNYmTNYBxSga75gij7QGhrgIG.jpg" group-title="English",Tell Me Lies S01 E06
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/5068.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Let the Right One In S01 E01" tvg-logo="http://image.tmdb.org/t/p/w300/fm7ANDh9FvdtlAT4O365VGMaEGS.jpg" group-title="Amazon Originals ",Let the Right One In S01 E01
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/5081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bodhon (2022) Bangla S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mZ2gfswIjcbLJ9b6sUIdEDaf8kr.jpg" group-title="Bangla",Bodhon (2022) Bangla S01 E01
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/5088.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bodhon (2022) Bangla S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8Jwhvx2FJucYAyaC41RabokKOy9.jpg" group-title="Bangla",Bodhon (2022) Bangla S01 E02
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/5089.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bodhon (2022) Bangla S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fWpDfcKsjkOZ69BtFf6ERFbr5LS.jpg" group-title="Bangla",Bodhon (2022) Bangla S01 E03
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/5090.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bodhon (2022) Bangla S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vUlJwnxWTBXbC73g6GHbQrvldkZ.jpg" group-title="Bangla",Bodhon (2022) Bangla S01 E04
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/5091.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bodhon (2022) Bangla S01 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ftwg0JMGuPNY19lNLaSkqxLfiVD.jpg" group-title="Bangla",Bodhon (2022) Bangla S01 E05
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/5092.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bodhon (2022) Bangla S01 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lrlMa9jXl10pDrLipd4V5ETBk80.jpg" group-title="Bangla",Bodhon (2022) Bangla S01 E06
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/5093.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bodhon (2022) Bangla S01 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/Auod9p1QJmE9CSL2S9t6xceV1o5.jpg" group-title="Bangla",Bodhon (2022) Bangla S01 E07
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/5094.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bodhon (2022) Bangla S01 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gB2VL5hMVP8f0aEc370PrTB5VTZ.jpg" group-title="Bangla",Bodhon (2022) Bangla S01 E08
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/5095.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mike S01 E01" tvg-logo="http://image.tmdb.org/t/p/w300/4twOzPEt9bv0ZA7S70qF48HGIHO.jpg" group-title="Amazon Originals ",Mike S01 E01
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/5232.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abominable and the Invisible City S01 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6nbWxjFYUtgcHTONJxOdifREupk.jpg" group-title="Kids",Abominable and the Invisible City S01 E01
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/5244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abominable and the Invisible City S01 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jSflAscdYKCjJgKtNxvk1vHNJjL.jpg" group-title="Kids",Abominable and the Invisible City S01 E02
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/5245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abominable and the Invisible City S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ltqf9fDRdSg9Cc6D3LPDXlupuiC.jpg" group-title="Kids",Abominable and the Invisible City S01 E03
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/5246.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abominable and the Invisible City S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jRHjPptIAFiMNUwV7INzGtmxqWl.jpg" group-title="Kids",Abominable and the Invisible City S01 E04
+http://biswas-stv.xyz:8880/series/tareq7979/01701087979/5247.mp4
