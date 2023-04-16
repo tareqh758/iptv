@@ -2,14 +2,15 @@
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/285px-Ekattor_TV_logo.svg.png" group-title="Bangladeshi",Ekattor TV (Bciptv)
 http://15.1.5.10:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" group-title="Bangladeshi",Somoy TV (Bciptv)
-http://15.1.5.14:8082/Somoy-TV/tracks-v1a1/mono.m3u8
+http://15.1.1.34:8282/Somoy-TV/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="Bangladeshi",Jamuna Television (Bciptv)
-http://15.1.5.18:8082/jamuna-tv/tracks-v1a1/mono.m3u8
+http://15.1.1.34:8282/jamuna-tv/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/330px-Independent_Television_Logo.svg.png" group-title="Bangladeshi",Independent Television (Bciptv)
+http://15.1.1.34:8282/Independent-Tv/tracks-v1a1/mono.m3u
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/300px-Channel24logo.svg.png" group-title="Bangladeshi",Channel 24 (Bciptv)
-http://15.1.5.18:8082/Channel24/tracks-v1a1/mono.m3u8
+http://15.1.1.34:8282/Channel24/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/300px-News24logo%28BD%29.jpg" group-title="Bangladeshi",News24 (Bciptv)
-http://15.1.5.14:8082/News24bd/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/News24bd/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/180px-ATN_News_Logo_3.GIF" group-title="Bangladeshi",ATN News (Bciptv)
 http://15.1.5.10:8082/Atn-News/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/300px-ATN_Bangla.svg.png" group-title="Bangladeshi",ATN Bangla (Bciptv)
@@ -19,7 +20,7 @@ http://15.1.5.10:8082/jalsha/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Jalsha_Movies.jpg" group-title="Indian Bangla",Star Jalsha Movies (Bciptv)
 http://15.1.5.10:8082/jalsha-movies/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Sony_Aath_new.png/270px-Sony_Aath_new.png" group-title="Indian Bangla",Sony Aath (Bciptv)
-http://15.1.5.14:8082/Sonyaath/tracks-v1a1/mono.m3u8
+http://15.1.1.34:8282/Sonyaath/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="Indian Bangla",Sun Bangla (Bciptv)
 http://15.1.5.10:8082/sunbangla/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/Zee-Bangla-HD.png" group-title="Indian Bangla",Zee Bangla(Bciptv)
@@ -29,10 +30,10 @@ http://15.1.5.10:8082/zee-bangla-cinema/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555" group-title="Indian Bangla",Colors Bangla Cinema (Bciptv)
 http://15.1.5.14:8082/colore-bangla-cinema/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg" group-title="Indian Bangla",Enterr10 Bangla (Bciptv)
-http://15.1.5.14:8082/enterr10-bangla/tracks-v1a1/mono.m3u8
+http://15.1.1.34:8282/enterr10-bangla/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYCqGpPET1DJjrLzcnNvrj-itwQGOpADSzD4seKLkGWQ5erCejaUhd2XsZAJmpqSKWnHU&usqp=CAU" group-title="Sports",Star Sport1 (Bciptv)
 http://15.1.5.10:8082/1LIVE/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359" group-title="Sports",Star Sport 2 (Bciptv)
-http://15.1.5.10:8082/STAR-SPORTS-2/tracks-v1a1/mono.m3u
+http://15.1.1.34:8282/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359" group-title="Sports",Star Sport 2 (Bciptv)
 https://rr6---sn-fja-q5je.googlevideo.com/videoplayback?expire=1681684431&ei=byM8ZLzDJKGfjuMPxvCyoAM&ip=103.172.28.143&id=o-ABEwaI9QmaOk42AGAxdij7Qk-gt86gd9tvJc6hkxylEO&itag=22&source=youtube&requiressl=yes&mh=bh&mm=31%2C29&mn=sn-fja-q5je%2Csn-h5576nsz&ms=au%2Crdu&mv=m&mvi=6&pl=24&initcwndbps=517500&vprv=1&mime=video%2Fmp4&ns=7a5fFjuVctv5ShP73J2GRa4M&cnr=14&ratebypass=yes&dur=7702.291&lmt=1670758640812135&mt=1681662299&fvip=3&fexp=24007246&c=WEB&txp=5532434&n=mV1n6vlHuco6_5WBfmp&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAPAVhh_owlyk7MDbeDTxRoJt8Lejwat_qPuyqbOXcCVxAiAY4D3Tc--omv_T9pa7jbVVKRDCr2lmvWoj0jf0qjwg7Q%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhALehC41yn_CnYdMTUhCP6qXEV72hxnQ8PwN8LhMn_heJAiBqgbFvdqFAR43k-CFwXuXZYAgxNhGR9wnAWl5NZS_lBg%3D%3D
