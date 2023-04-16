@@ -1,13 +1,38 @@
 #EXTM3U
 Bangladesh
+
+Ekattor TV
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/285px-Ekattor_TV_logo.svg.png" group-title="Bangladeshi",Ekattor TV (Bciptv)
 http://15.1.5.22:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
 
+Somoy TV
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" group-title="Bangladeshi",Somoy TV (Bciptv)
+http://15.1.5.14:8082/Somoy-TV/tracks-v1a1/mono.m3u8
+
+Jamuna Television
+#EXTINF:1 tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="Bangladeshi",Jamuna Television (Bciptv)
+http://15.1.5.18:8082/jamuna-tv/tracks-v1a1/mono.m3u8
+
+
+Independent Television 
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/330px-Independent_Television_Logo.svg.png" group-title="Bangladeshi",Independent Television (Bciptv)
+http://15.1.5.14:8082/Somoy-TV/tracks-v1a1/mono.m3u8
+
+
+
+Channel 24
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/300px-Channel24logo.svg.png" group-title="Bangladeshi",Channel 24 (Bciptv)
+http://15.1.5.18:8082/Channel24/tracks-v1a1/mono.m3u8
+
+
+ATN News
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/180px-ATN_News_Logo_3.GIF" group-title="Bangladeshi",ATN News (Bciptv)
 http://15.1.5.10:8082/Atn-News/tracks-v1a1/mono.m3u8
 
-#EXTINF:1 tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="Bangladeshi",Jamuna Television (Bciptv)
-http://15.1.5.18:8082/jamuna-tv/tracks-v1a1/mono.m3u8
+
+
+
+
 
 
 Star Jalsha
@@ -15,7 +40,7 @@ Star Jalsha
 http://15.1.5.18:8082/jalsha/tracks-v1a1/mono.m3u8
 
 Star Jalsha Movies
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Jalsha_Movies.jpg" group-title="Indian Bangla",Star Jalsha Movies(Bciptv)
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Jalsha_Movies.jpg" group-title="Indian Bangla",Star Jalsha Movies (Bciptv)
 http://15.1.5.18:8082/jalsha-movies/tracks-v1a1/mono.m3u8?
 
 Sony Aath
@@ -23,7 +48,7 @@ Sony Aath
 http://15.1.5.14:8082/Sonyaath/tracks-v1a1/mono.m3u8
 
 Sun Bangla
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="Indian Bangla",Sun Bangla(Bciptv)
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="Indian Bangla",Sun Bangla (Bciptv)
 http://15.1.5.10:8082/sunbangla/tracks-v1a1/mono.m3u8
 
 
