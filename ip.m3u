@@ -1,5 +1,5 @@
 #EXTM3U
-
+Bangladesh
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/285px-Ekattor_TV_logo.svg.png" group-title="Bangladeshi",Ekattor TV (Bciptv)
 http://15.1.5.22:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
 
@@ -10,11 +10,6 @@ http://15.1.5.10:8082/Atn-News/tracks-v1a1/mono.m3u8
 http://15.1.5.18:8082/jamuna-tv/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:1 tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="Bangladeshi",Jamuna Television (Bciptv)
-https://edge4.bioscopelive.com/hls/anonymous/QVrc_RTiL5txItoVJXcVAg/1681585723/live-somoy-news-tv_hi/index.m3u8
-
-#EXTINF:1 tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="Bangladeshi",Jamuna Television (Bciptv)
-https://edge4.bioscopelive.com/hls/anonymous/QVrc_RTiL5txItoVJXcVAg/1681585723/live-somoy-news-tv_hi/23874184000.ts
 
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",Star Jalsha (Bciptv)
 http://15.1.5.18:8082/jalsha/tracks-v1a1/mono.m3u8
@@ -24,4 +19,7 @@ http://15.1.5.14:8082/enterr10-bangla/tracks-v1a1/mono.m3u8
 http://15.1.5.18:8082/zee-bangla-cinema/tracks-v1a1/mono.m3u8?
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Jalsha_Movies.jpg" group-title="Indian Bangla",Star Jalsha Movies(Bciptv)
 http://15.1.5.18:8082/jalsha-movies/tracks-v1a1/mono.m3u8?
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Jalsha_Movies.jpg" group-title="Indian Bangla",Star Jalsha Movies(Bciptv)
+
+
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYCqGpPET1DJjrLzcnNvrj-itwQGOpADSzD4seKLkGWQ5erCejaUhd2XsZAJmpqSKWnHU&usqp=CAU" group-title="Sports",Star Sport1 (Bciptv)
+http://15.1.5.10:8082/1LIVE/tracks-v1a1/mono.m3u8
