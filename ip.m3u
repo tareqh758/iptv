@@ -69,7 +69,7 @@ http://15.1.5.10:8082/zee-bangla-cinema/tracks-v1a1/mono.m3u8
 
 Colors Bangla Cinema
 #EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555" group-title="Indian Bangla",Colors Bangla Cinema (Bciptv)
-http://15.1.5.22:8082/colore-bangla-cinema/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/colore-bangla-cinema/tracks-v1a1/mono.m3u8
 
 Enterr10 Bangla
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg" group-title="Indian Bangla",Enterr10 Bangla (Bciptv)
@@ -82,3 +82,8 @@ Star Sport1
 #EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYCqGpPET1DJjrLzcnNvrj-itwQGOpADSzD4seKLkGWQ5erCejaUhd2XsZAJmpqSKWnHU&usqp=CAU" group-title="Sports",Star Sport1 (Bciptv)
 http://15.1.5.10:8082/1LIVE/tracks-v1a1/mono.m3u8
 
+
+
+#EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359" group-title="Sports",Star Sport 2 (Bciptv)
+
+http://15.1.5.10:8082/STAR-SPORTS-2/tracks-v1a1/mono.m3u
