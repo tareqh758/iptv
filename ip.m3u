@@ -1,34 +1,84 @@
 #EXTM3U
+Bangladesh
+
+Ekattor TV
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/285px-Ekattor_TV_logo.svg.png" group-title="Bangladeshi",Ekattor TV (Bciptv)
-http://15.1.5.22:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
+http://15.1.5.10:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
+
+Somoy TV
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" group-title="Bangladeshi",Somoy TV (Bciptv)
 http://15.1.5.14:8082/Somoy-TV/tracks-v1a1/mono.m3u8
+
+Jamuna Television
 #EXTINF:1 tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="Bangladeshi",Jamuna Television (Bciptv)
 http://15.1.5.18:8082/jamuna-tv/tracks-v1a1/mono.m3u8
+
+
+Independent Television 
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/330px-Independent_Television_Logo.svg.png" group-title="Bangladeshi",Independent Television (Bciptv)
+
+
+Channel 24
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/300px-Channel24logo.svg.png" group-title="Bangladeshi",Channel 24 (Bciptv)
 http://15.1.5.18:8082/Channel24/tracks-v1a1/mono.m3u8
+
+News24
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/300px-News24logo%28BD%29.jpg" group-title="Bangladeshi",News24 (Bciptv)
 http://15.1.5.14:8082/News24bd/tracks-v1a1/mono.m3u8
+
+ATN News
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/180px-ATN_News_Logo_3.GIF" group-title="Bangladeshi",ATN News (Bciptv)
 http://15.1.5.10:8082/Atn-News/tracks-v1a1/mono.m3u8
+
+
+ATN Bangla
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/300px-ATN_Bangla.svg.png" group-title="Bangladeshi",ATN Bangla (Bciptv)
-http://15.1.5.18:8082/ATN-Bangla/tracks-v1a1/mono.m3u8
+http://15.1.5.10:8082/ATN-Bangla/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+Indian Bangla
+
+Star Jalsha
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",Star Jalsha (Bciptv)
-http://15.1.5.18:8082/jalsha/tracks-v1a1/mono.m3u8
+http://15.1.5.10:8082/jalsha/tracks-v1a1/mono.m3u8
+
+Star Jalsha Movies
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Jalsha_Movies.jpg" group-title="Indian Bangla",Star Jalsha Movies (Bciptv)
-http://15.1.5.18:8082/jalsha-movies/tracks-v1a1/mono.m3u8
+http://15.1.5.10:8082/jalsha-movies/tracks-v1a1/mono.m3u8
+
+Sony Aath
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Sony_Aath_new.png/270px-Sony_Aath_new.png" group-title="Indian Bangla",Sony Aath (Bciptv)
 http://15.1.5.14:8082/Sonyaath/tracks-v1a1/mono.m3u8
+
+Sun Bangla
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="Indian Bangla",Sun Bangla (Bciptv)
-http://15.1.5.10:8082/sunbangla/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/sunbangla/tracks-v1a1/mono.m3u8
+
+
+Zee Bangla
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg" group-title="Indian Bangla",Zee Bangla(Bciptv)
 http://15.1.5.10:8082/zee-bangla/tracks-v1a1/mono.m3u8
+
+Zee Bangla Cinema
 #EXTINF:1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/Zee-Bangla-HD.png" group-title="Indian Bangla",Zee Bangla Cinema  (Bciptv)
-http://15.1.5.18:8082/zee-bangla-cinema/tracks-v1a1/mono.m3u8
+http://15.1.5.10:8082/zee-bangla-cinema/tracks-v1a1/mono.m3u8
+
+Colors Bangla Cinema
 #EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555" group-title="Indian Bangla",Colors Bangla Cinema (Bciptv)
 http://15.1.5.22:8082/colore-bangla-cinema/tracks-v1a1/mono.m3u8
+
+Enterr10 Bangla
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg" group-title="Indian Bangla",Enterr10 Bangla (Bciptv)
 http://15.1.5.14:8082/enterr10-bangla/tracks-v1a1/mono.m3u8
+
+
+
+
+Star Sport1 
 #EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYCqGpPET1DJjrLzcnNvrj-itwQGOpADSzD4seKLkGWQ5erCejaUhd2XsZAJmpqSKWnHU&usqp=CAU" group-title="Sports",Star Sport1 (Bciptv)
 http://15.1.5.10:8082/1LIVE/tracks-v1a1/mono.m3u8
+
