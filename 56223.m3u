@@ -1,4 +1,4 @@
 
 #EXTM3U#
-EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/285px-Ekattor_TV_logo.svg.pngg" group-title="Bangladeshi",Ekattor TV (Bciptv)
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/285px-Ekattor_TV_logo.svg.pngg" group-title="Bangladeshi",Ekattor TV (Bciptv)
 https://cdn.pvvstream.pro/videos/-169416374/456239102/vid_480p.mp4?secure=qMrDqWNN5Bv61Lg2QUQFhA==,1681750665&dl=1
