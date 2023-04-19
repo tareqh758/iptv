@@ -6,7 +6,7 @@ http://15.1.1.34:8282/Somoy-TV/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="Bangladeshi",Jamuna Television (Bciptv)
 http://15.1.1.34:8282/jamuna-tv/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/330px-Independent_Television_Logo.svg.png" group-title="Bangladeshi",Independent Television (Bciptv)
-http://15.1.1.34:8282/Independent-Tv/tracks-v1a1/mono.m3u
+http://15.1.1.10:8282/Independent-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/300px-Channel24logo.svg.png" group-title="Bangladeshi",Channel 24 (Bciptv)
 http://15.1.1.34:8282/Channel24/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/300px-News24logo%28BD%29.jpg" group-title="Bangladeshi",News24 (Bciptv)
@@ -15,9 +15,28 @@ http://15.1.1.10:8282/News24bd/tracks-v1a1/mono.m3u8
 http://15.1.5.10:8082/Atn-News/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/300px-ATN_Bangla.svg.png" group-title="Bangladeshi",ATN Bangla (Bciptv)
 http://15.1.5.10:8082/ATN-Bangla/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/300px-Channel-i.svg.png?20130828195547" group-title="Bangladeshi",Channel i (Bciptv)
+http://15.1.1.38:8282/Channel-i/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/300px-Ekushey_Television_Logo.svg.png" group-title="Bangladeshi",Ekushey Television (Bciptv
+http://15.1.1.38:8282/Ekushey-TV/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/300px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangladeshi",NTV (Bciptv)
+http://15.1.1.10:8282/Ntv/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="Bangladeshi",RTV (Bciptv)
+http://15.1.1.38:8282/RTV/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="Bangladeshi",SATV (Bciptv)
+http://15.1.1.34:8282/SATV/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/150px-Asian_TV_Logo.svg.png" group-title="Bangladeshi",Asian TV (Bciptv)
+http://15.1.1.38:8282/AsianTV/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Bangla_TV_Logo.png/330px-Bangla_TV_Logo.png" group-title="Bangladeshi",Bangla TV (Bciptv)
+http://15.1.1.10:8282/bangla-tv/tracks-v1a1/mono.m3u
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/180px-Banglavision.svg.png" group-title="Bangladeshi",Banglavision (Bciptv)
+http://15.1.1.34:8282/BanglaVision/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/My_TV_Logo.svg/640px-My_TV_Logo.svg.png" group-title="Bangladeshi",MyTV (Bciptv)
+http://15.1.1.10:8282/MyTV/tracks-v1a1/mono.m3u8
+
+
+
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",Star Jalsha (Bciptv)
-http://15.1.5.10:8082/jalsha/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Jalsha_Movies.jpg" group-title="Indian Bangla",Star Jalsha Movies (Bciptv)
 http://15.1.5.10:8082/jalsha-movies/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Sony_Aath_new.png/270px-Sony_Aath_new.png" group-title="Indian Bangla",Sony Aath (Bciptv)
 http://15.1.1.34:8282/Sonyaath/tracks-v1a1/mono.m3u8
@@ -35,5 +54,3 @@ http://15.1.1.34:8282/enterr10-bangla/tracks-v1a1/mono.m3u8
 http://15.1.5.10:8082/1LIVE/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359" group-title="Sports",Star Sport 2 (Bciptv)
 http://15.1.1.34:8282/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359" group-title="Sports",Star Sport 2 (Bciptv)
-https://rr6---sn-fja-q5je.googlevideo.com/videoplayback?expire=1681684431&ei=byM8ZLzDJKGfjuMPxvCyoAM&ip=103.172.28.143&id=o-ABEwaI9QmaOk42AGAxdij7Qk-gt86gd9tvJc6hkxylEO&itag=22&source=youtube&requiressl=yes&mh=bh&mm=31%2C29&mn=sn-fja-q5je%2Csn-h5576nsz&ms=au%2Crdu&mv=m&mvi=6&pl=24&initcwndbps=517500&vprv=1&mime=video%2Fmp4&ns=7a5fFjuVctv5ShP73J2GRa4M&cnr=14&ratebypass=yes&dur=7702.291&lmt=1670758640812135&mt=1681662299&fvip=3&fexp=24007246&c=WEB&txp=5532434&n=mV1n6vlHuco6_5WBfmp&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAPAVhh_owlyk7MDbeDTxRoJt8Lejwat_qPuyqbOXcCVxAiAY4D3Tc--omv_T9pa7jbVVKRDCr2lmvWoj0jf0qjwg7Q%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhALehC41yn_CnYdMTUhCP6qXEV72hxnQ8PwN8LhMn_heJAiBqgbFvdqFAR43k-CFwXuXZYAgxNhGR9wnAWl5NZS_lBg%3D%3D
