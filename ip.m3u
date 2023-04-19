@@ -28,14 +28,11 @@ http://15.1.1.34:8282/SATV/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/150px-Asian_TV_Logo.svg.png" group-title="Bangladeshi",Asian TV (Bciptv)
 http://15.1.1.38:8282/AsianTV/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Bangla_TV_Logo.png/330px-Bangla_TV_Logo.png" group-title="Bangladeshi",Bangla TV (Bciptv)
-http://15.1.1.10:8282/bangla-tv/tracks-v1a1/mono.m3u
+http://15.1.1.34:8282/bangla-tv/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/180px-Banglavision.svg.png" group-title="Bangladeshi",Banglavision (Bciptv)
 http://15.1.1.34:8282/BanglaVision/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/My_TV_Logo.svg/640px-My_TV_Logo.svg.png" group-title="Bangladeshi",MyTV (Bciptv)
 http://15.1.1.10:8282/MyTV/tracks-v1a1/mono.m3u8
-
-
-
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",Star Jalsha (Bciptv)
 http://15.1.5.10:8082/jalsha-movies/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Sony_Aath_new.png/270px-Sony_Aath_new.png" group-title="Indian Bangla",Sony Aath (Bciptv)
