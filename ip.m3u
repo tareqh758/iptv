@@ -52,7 +52,7 @@ http://15.1.1.34:8282/duronto-tv/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",Star Jalsha (Bciptv)
 http://15.1.1.34:8282/jalsha/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",Star Jalsha (AmrBD)
-http://12.1.1.1:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=70193bca2d777051b8d56490a1b867e567939618-66415452bba71caaff246ef047484648-1682682022-1682671222
+http://12.1.1.1:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=74d32a8def63e8eebe100b4971a037068c6592e7-c08c699e4b3cec964507e9cbaa8892df-1682682245-1682671445
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Jalsha_Movies.jpg" group-title="Indian Bangla",Jalsha Movies (Bciptv)
 http://15.1.5.10:8082/jalsha-movies/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Jalsha_Movies.jpg" group-title="Indian Bangla",Jalsha Movies (AmrBD)
