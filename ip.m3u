@@ -12,7 +12,7 @@ http://15.1.1.34:8282/Channel24/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/300px-News24logo%28BD%29.jpg" group-title="Bangladeshi",News24 (Bciptv)
 http://15.1.1.10:8282/News24bd/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/300px-News24logo%28BD%29.jpg" group-title="Bangladeshi",DBC News (Bciptv)
-http://15.1.1.10:8282/DBC-NEWS/tracks-v1a1/mono.m3u8
+http://12.1.1.1:8082/DBC-NEWS/tracks-v1a1/mono.m3u8?token=560ee86f4f2270e5528a8c4726543f333ae93aef-b8d32419c8559963de67f70d1af9f590-1682682619-1682671819
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/180px-ATN_News_Logo_3.GIF" group-title="Bangladeshi",ATN News (Bciptv)
 http://15.1.5.10:8082/Atn-News/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/300px-ATN_Bangla.svg.png" group-title="Bangladeshi",ATN Bangla (Bciptv)
@@ -72,7 +72,7 @@ http://15.1.5.10:8082/zee-bangla-cinema/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://img.favpng.com/19/20/13/zee-bangla-cinema-logo-zee-cinema-bengali-language-png-favpng-EGC6aFQLMrSkPamz03cLVYU4L.jpg" group-title="Indian Bangla",Zee Bangla Cinema  (AmrBD)
 http://12.1.1.1:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png?20220118000106" group-title="Indian Bangla",Colors Bangla (AmrBD)
-http://12.1.1.1:8082/colorsbangla/tracks-v1a1/mono.m3u8?token=89d41a5b0758c48ed5b157f42e27fd74337eed02-766027b226d9bc977f77753f74285f6a-1682682357-1682671557
+http://12.1.1.1:8082/colorsbangla/tracks-v1a1/mono.m3u8?token=1673445ea5afb331698d438584a83f12743fd189-42948db669c81e233bb7bade1614fc7a-1682682472-1682671672
 #EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555" group-title="Indian Bangla",Colors Bangla Cinema (Bciptv)
 http://15.1.5.14:8082/colore-bangla-cinema/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg" group-title="Indian Bangla",Enterr10 Bangla (Bciptv)
