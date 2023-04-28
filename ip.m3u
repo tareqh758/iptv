@@ -72,7 +72,7 @@ http://15.1.5.10:8082/zee-bangla-cinema/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://img.favpng.com/19/20/13/zee-bangla-cinema-logo-zee-cinema-bengali-language-png-favpng-EGC6aFQLMrSkPamz03cLVYU4L.jpg" group-title="Indian Bangla",Zee Bangla Cinema  (AmrBD)
 http://12.1.1.1:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png?20220118000106" group-title="Indian Bangla",Colors Bangla (AmrBD)
-http://12.1.1.1:8082/colorsbangla/tracks-v1a1/mono.m3u8?token=730fa372ca66777ec40bb4f9149cc067ad2a606f-d23c264b7babc64baca7bf1a9831ce79-1682189662-1682178862
+http://12.1.1.1:8082/colorsbangla/tracks-v1a1/mono.m3u8?token=89d41a5b0758c48ed5b157f42e27fd74337eed02-766027b226d9bc977f77753f74285f6a-1682682357-1682671557
 #EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555" group-title="Indian Bangla",Colors Bangla Cinema (Bciptv)
 http://15.1.5.14:8082/colore-bangla-cinema/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg" group-title="Indian Bangla",Enterr10 Bangla (Bciptv)
