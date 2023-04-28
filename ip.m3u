@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/330px-GTVBangladeshLogo.png" group-title="Bangladeshi",GTV (Amrbd)
-http://12.1.1.1:8082/Gazi-Tv/tracks-v1a1/mono.m3u8?token=28db6b94698db38b9d5cd42c1612ecb95304403f-1405b4
+http://12.1.1.1:8082/Gazi-Tv/tracks-v1a1/mono.m3u8?token=5078b7b50f24f26c3b11a7db4ea265c0741a6900-76e9463a4ce26f5664e0d846fa872a96-1682685733-1682674933
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangladeshi",T Sports (Amrbd)
 http://12.1.1.1:8082/T-Sports/tracks-v1a1/mono.m3u8?token=b9f16c48c4e5b58eb896a63dc371dca33739e694-aef6116bed3d9c4582790db102db815b-1682684234-1682673434
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/285px-Ekattor_TV_logo.svg.png" group-title="Bangladeshi",Ekattor TV (Bciptv)
@@ -15,13 +15,13 @@ http://15.1.1.10:8282/Independent-Tv/tracks-v1a1/mono.m3u8
 http://15.1.1.34:8282/Channel24/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/300px-News24logo%28BD%29.jpg" group-title="Bangladeshi",News24 (Bciptv)
 http://15.1.1.10:8282/News24bd/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/300px-News24logo%28BD%29.jpg" group-title="Bangladeshi",DBC News (Bciptv)
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="Bangladeshi",DBC News (Bciptv)
 http://12.1.1.1:8082/DBC-NEWS/tracks-v1a1/mono.m3u8?token=560ee86f4f2270e5528a8c4726543f333ae93aef-b8d32419c8559963de67f70d1af9f590-1682682619-1682671819
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/180px-ATN_News_Logo_3.GIF" group-title="Bangladeshi",ATN News (Bciptv)
 http://15.1.5.10:8082/Atn-News/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/300px-ATN_Bangla.svg.png" group-title="Bangladeshi",ATN Bangla (Bciptv)
 http://15.1.5.10:8082/ATN-Bangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="Bangladesh", ATN Bangla (JagoBD)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="Bangladeshi", ATN Bangla (JagoBD)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/300px-Channel-i.svg.png?20130828195547" group-title="Bangladeshi",Channel i (Bciptv)
 http://15.1.1.38:8282/Channel-i/tracks-v1a1/mono.m3u8
@@ -63,20 +63,14 @@ http://12.1.1.1:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=74d32a8def63e8eebe1
 http://15.1.5.10:8082/jalsha-movies/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Jalsha_Movies.jpg" group-title="Indian Bangla",Jalsha Movies (AmrBD)
 http://12.1.1.1:8082/Jalshamovies/tracks-v1a1/mono.m3u8?token=658eae3d04cb0181a258f22295b5cc01725e9372-587497f46b47ea38f78d01536a9e782e-1682682081-1682671281
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Sony_Aath_new.png/270px-Sony_Aath_new.png" group-title="Indian Bangla",Sony Aath (Bciptv)
-http://15.1.1.34:8282/Sonyaath/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Sony_Aath_new.png/270px-Sony_Aath_new.png" group-title="Indian Bangla",Sony Aath (AmrBD)
 http://12.1.1.1:8082/Sonyaath/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="Indian Bangla",Sun Bangla (Bciptv)
 http://15.1.5.10:8082/sunbangla/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/Zee-Bangla-HD.png" group-title="Indian Bangla",Zee Bangla(Bciptv)
 http://15.1.5.10:8082/zee-bangla/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/Zee-Bangla-HD.png" group-title="Indian Bangla",Zee Bangla (AmrBD)
-http://12.1.1.1:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://img.favpng.com/19/20/13/zee-bangla-cinema-logo-zee-cinema-bengali-language-png-favpng-EGC6aFQLMrSkPamz03cLVYU4L.jpg" group-title="Indian Bangla",Zee Bangla Cinema  (Bciptv)
 http://15.1.5.10:8082/zee-bangla-cinema/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-logo="https://img.favpng.com/19/20/13/zee-bangla-cinema-logo-zee-cinema-bengali-language-png-favpng-EGC6aFQLMrSkPamz03cLVYU4L.jpg" group-title="Indian Bangla",Zee Bangla Cinema  (AmrBD)
-http://12.1.1.1:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png?20220118000106" group-title="Indian Bangla",Colors Bangla (AmrBD)
 http://12.1.1.1:8082/colorsbangla/tracks-v1a1/mono.m3u8?token=1673445ea5afb331698d438584a83f12743fd189-42948db669c81e233bb7bade1614fc7a-1682682472-1682671672
 #EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555" group-title="Indian Bangla",Colors Bangla Cinema (Bciptv)
@@ -89,6 +83,12 @@ http://15.1.1.10:8282/GaanBangla/tracks-v1a1/mono.m3u8
 http://15.1.1.38:8282/sangeet-bangla/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Bangla_Talkies.jpeg/revision/latest?cb=20191217194156" group-title="Music",Bangla Talkies (Bciptv)
 http://15.1.1.34:8282/BANGLA-TALKIES/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/9xm_red.svg/revision/latest/scale-to-width-down/250?cb=20210508163434" group-title="Music",9XM  (Bciptv)
+http://15.1.1.10:8282/9XM/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/04/Mastiii-SAB-Group-logo-2-2.jpg" group-title="Music",Mastiii  (Bciptv)
+http://15.1.1.34:8282/Masti-Music/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5_GDgrdWVqcnKq88g1MDshNwCKco4p2vE1SEe2Xu__w&s" group-title="Music",9x jalwa (Bciptv)
+http://15.1.1.34:8282/it-care-9xm-jalwa/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/StarPlus_Logo.png/195px-StarPlus_Logo.png5" group-title="Hindi",StarPlus (Bciptv)
 http://15.1.1.38:8282/star-plus/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/330px-Colors_TV_logo.svg.png" group-title="Hindi",Colors (Bciptv)
@@ -97,10 +97,12 @@ http://15.1.1.34:8282/colorsindia/tracks-v1a1/mono.m3u8
 http://15.1.1.10:8282/SonyTVHD/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Sony_Max_new.png/285px-Sony_Max_new.png" group-title="Hindi",Sony Max (Bciptv)
 http://15.1.1.10:8282/Sony-Max/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Sony_Sab_new.png/270px-Sony_Sab_new.png" group-title="Hindi",Sony SAB (Bciptv)
+http://15.1.1.10:8282/SONY-SUB/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/%26pictures.png" group-title="Hindi",&pictures (Amrbd)
 http://12.1.1.1:8082/And-Pictures/tracks-v1a1/mono.m3u8?token=1346bbfe09e757d5a8cee77a215acdef86f364a6-411d501b0c89f20203ad11d6b936645b-1682683794-1682672994
-#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Sony_Sab_new.png/270px-Sony_Sab_new.png" group-title="Hindi",Colors (Bciptv)
-http://15.1.1.10:8282/SONY-SUB/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Colorstv-logo-black-background.jpg/revision/latest/scale-to-width-down/1200?cb=20160422135545" group-title="Hindi",Colors (Bciptv)
+http://15.1.1.34:8282/colorsindia/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi",Zee TV (Bciptv)
 http://15.1.1.38:8282/zee-tv-hd/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/330px-STAR_Movies_logo.svg.png" group-title="English",Star Movies (Bciptv)
@@ -127,4 +129,5 @@ http://15.1.1.34:8282/tv14/tracks-v1a1/mono.m3u8
 http://15.1.1.38:8282/Adsports1/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" group-title="Sports",Live (Bciptv)
 http://15.1.1.10:8282/Adsports2/tracks-v1a1/mono.m3u8
-
+#EXTINF:1 tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" group-title="Movies",Live (Bciptv)
+http://ftp3.circleftp.net/FILE/Islamic/Bilal-i%20Habe%C5%9Fi%20-%20Kanal%207%20TV%20Filmi/Bilal-i%20Habe%C5%9Fi%20-%20Kanal%207%20TV%20Filmi.mp4
