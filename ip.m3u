@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/330px-GTVBangladeshLogo.png" group-title="Bangladeshi",GTV (Amrbd)
+http://12.1.1.1:8082/Gazi-Tv/tracks-v1a1/mono.m3u8?token=28db6b94698db38b9d5cd42c1612ecb95304403f-1405b4
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangladeshi",T Sports (Amrbd)
+http://12.1.1.1:8082/T-Sports/tracks-v1a1/mono.m3u8?token=b9f16c48c4e5b58eb896a63dc371dca33739e694-aef6116bed3d9c4582790db102db815b-1682684234-1682673434
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/285px-Ekattor_TV_logo.svg.png" group-title="Bangladeshi",Ekattor TV (Bciptv)
 http://15.1.5.10:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" group-title="Bangladeshi",Somoy TV (Bciptv)
@@ -49,6 +53,8 @@ http://15.1.1.34:8282/anandotv/tracks-v1a1/mono.m3u8
 http://15.1.1.34:8282/DESH-TV/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Kids",Duronto TV (Bciptv)
 http://15.1.1.34:8282/duronto-tv/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://www.citypng.com/public/uploads/preview/nick-nickelodeon-square-logo-icon-png-11663343702wclovnrete.png?v=2023042809" group-title="Kids",Nick (Amrbd)
+http://12.1.1.1:8082/nike/tracks-v1a1/mono.m3u8?token=171cae4161cdb291c8bd6d18abf11e7b3e587ca8-5681256f279e85bef20cd5e32e29b20a-1682684065-1682673265
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",Star Jalsha (Bciptv)
 http://15.1.1.34:8282/jalsha/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",Star Jalsha (AmrBD)
@@ -91,6 +97,8 @@ http://15.1.1.34:8282/colorsindia/tracks-v1a1/mono.m3u8
 http://15.1.1.10:8282/SonyTVHD/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Sony_Max_new.png/285px-Sony_Max_new.png" group-title="Hindi",Sony Max (Bciptv)
 http://15.1.1.10:8282/Sony-Max/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/%26pictures.png" group-title="Hindi",&pictures (Amrbd)
+http://12.1.1.1:8082/And-Pictures/tracks-v1a1/mono.m3u8?token=1346bbfe09e757d5a8cee77a215acdef86f364a6-411d501b0c89f20203ad11d6b936645b-1682683794-1682672994
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Sony_Sab_new.png/270px-Sony_Sab_new.png" group-title="Hindi",Colors (Bciptv)
 http://15.1.1.10:8282/SONY-SUB/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi",Zee TV (Bciptv)
@@ -99,9 +107,24 @@ http://15.1.1.38:8282/zee-tv-hd/tracks-v1a1/mono.m3u8
 http://15.1.1.34:8282/star-movies-hd/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Sony_Pix_new.png/270px-Sony_Pix_new.png" group-title="English",Sony Pix (Bciptv)
 http://15.1.1.10:8282/sony-pix-hd/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359" group-title="Sports",Star Sport 2 (Bciptv)
+#EXTINF:1 tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" group-title="Sports",Live (Bciptv)
 http://15.1.5.10:8082/1LIVE/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436" group-title="Sports",Star Sport 1 (Bciptv)
+http://15.1.1.34:8282/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdmVZzCfI2mw2x6GvuuuQEjbgI5wgs5fMiJK9aiDHT&s" group-title="Sports",Star Sports Select 1 (Bciptv)
+http://15.1.1.10:8282/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png/revision/latest/scale-to-width-down/220?cb=20230128175646" group-title="Sports",Star Sports Select 2 (Bciptv)
+http://15.1.1.38:8282/select2/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359" group-title="Sports",Star Sport 2 (Bciptv)
 http://15.1.1.34:8282/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359" group-title="Sports",Star Sport 2 (AmrBD)
-http://12.1.1.1:8082/Star-Sports-2/index.m3u8?token=0cf5d0df36c6d65e0183e45cfc18c2592045d2f3-3dae848b90976f6db4725b99a5bc9db7-1682189090-1682178290
+#EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest?cb=20191214234112" group-title="Sports",Star Sport 3 (Bciptv)
+http://15.1.1.10:8282/STAR-SPORTS-3/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://mgpindia.com/wp-content/uploads/2021/10/willow-logo.jpg" group-title="Sports",Willow Cricket Hd  (Bciptv)
+http://15.1.1.34:8282/willow-hd/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" group-title="Sports",Live (Bciptv)
+http://15.1.1.34:8282/tv14/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" group-title="Sports",Live (Bciptv)
+http://15.1.1.38:8282/Adsports1/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" group-title="Sports",Live (Bciptv)
+http://15.1.1.10:8282/Adsports2/tracks-v1a1/mono.m3u8
+
