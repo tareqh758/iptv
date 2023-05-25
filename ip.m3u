@@ -121,6 +121,8 @@ http://15.1.1.38:8282/select2/tracks-v1a1/mono.m3u8
 http://15.1.1.34:8282/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest?cb=20191214234112" group-title="Sports",Star Sport 3 (Bciptv)
 http://15.1.1.10:8282/STAR-SPORTS-3/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://w7.pngwing.com/pngs/13/246/png-transparent-logo-ptv-sports-television-channel-pakistan-cricket-television-text-trademark.png" group-title="Sports",PTV Sports(AmerBd)
+http://12.1.1.1:8082/PTV-Sports/tracks-v1a1/mono.m3u8?token=ac53d3b91d14d4b3d496e4e1c316c42a9d630792-81c824db535974b393f579f5d1558e75-1685008601-1684997801
 #EXTINF:1 tvg-logo="https://mgpindia.com/wp-content/uploads/2021/10/willow-logo.jpg" group-title="Sports",Willow Cricket Hd  (Bciptv)
 http://15.1.1.34:8282/willow-hd/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" group-title="Sports",Live (Bciptv)
@@ -129,5 +131,3 @@ http://15.1.1.34:8282/tv14/tracks-v1a1/mono.m3u8
 http://15.1.1.38:8282/Adsports1/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" group-title="Sports",Live (Bciptv)
 http://15.1.1.10:8282/Adsports2/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" group-title="Movies",Live (Bciptv)
-http://ftp3.circleftp.net/FILE/Islamic/Bilal-i%20Habe%C5%9Fi%20-%20Kanal%207%20TV%20Filmi/Bilal-i%20Habe%C5%9Fi%20-%20Kanal%207%20TV%20Filmi.mp4
