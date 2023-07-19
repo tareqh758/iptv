@@ -85,6 +85,8 @@ http://15.1.1.10:8282/Sonyaath/tracks-v1a1/mono.m3u8
 http://15.1.5.10:8082/sunbangla/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg" group-title="Indian Bangla",Enterr10 Bangla (Bciptv)
 http://15.1.1.34:8282/enterr10-bangla/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png?20220118000106" group-title="Indian Bangla",Colors Bangla (BDip)
+http://15.1.1.10:8282/colar-bangla/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png?20220118000106" group-title="Indian Bangla",Colors Bangla (AmrBD)
 http://12.1.1.1:8082/colorsbangla/tracks-v1a1/mono.m3u8?token=d1aa24382bf51d6b499cd85604f544037267edc7-8ff046fd1934d8f896f61780f439d434-1689796902-1689786102
 #EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555" group-title="Indian Bangla",Colors Bangla Cinema (Bciptv)
@@ -101,6 +103,7 @@ http://15.1.1.10:8282/9XM/tracks-v1a1/mono.m3u8
 http://15.1.1.34:8282/Masti-Music/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5_GDgrdWVqcnKq88g1MDshNwCKco4p2vE1SEe2Xu__w&s" group-title="Music",9x jalwa (Bciptv)
 http://15.1.1.34:8282/it-care-9xm-jalwa/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/Zoom_TV.png/revision/latest?cb=20111013233308" group-title="Music",Zoom (Bciptv)
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/StarPlus_Logo.png/195px-StarPlus_Logo.png5" group-title="Hindi",StarPlus (Bciptv)
 http://15.1.1.38:8282/star-plus/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star_Gold_2020.svg/2349px-Star_Gold_2020.svg.png" group-title="Hindi",StarGold (Bciptv)
@@ -159,3 +162,5 @@ http://15.1.1.34:8282/tv14/tracks-v1a1/mono.m3u8
 http://15.1.1.38:8282/Adsports1/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" group-title="Sports",Live (Bciptv)
 http://15.1.1.10:8282/Adsports2/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Al-Jazeera-Logo.jpg" group-title="News",Al Jazeera (Bciptv)
+http://15.1.1.10:8282/Aljazeera/tracks-v1a1/mono.m3u8
