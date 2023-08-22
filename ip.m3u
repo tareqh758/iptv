@@ -20,23 +20,23 @@ http://15.1.1.34:8282/Ekattor-tv/tracks-v1a1/mono.m3u8?token=9be5fcba89618c6efc2
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" group-title="Bangladeshi",Somoy TV (Bciptv)
 http://15.1.1.34:8282/Somoy-TV/tracks-v1a1/mono.m3u8?token=ef2483f87849a8bbf5cc3de2cc89194286871b2a-4714f570d7e561fde0b34f3842a9d0f4-1692732482-1692721682
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/330px-Independent_Television_Logo.svg.png" group-title="Bangladeshi",Independent Television (Bciptv)
-http://15.1.1.10:8282/Independent-Tv/tracks-v1a1/mono.m3u8
+http://15.1.1.38:8282/Independent-Tv/tracks-v1a1/mono.m3u8?token=9d5fe2292c77047ea81d681018fc37d7abf064e3-dc07fab8002a646870cf96ef03dcfec6-1692732597-1692721797
 #EXTINF:1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2020/12/jamuna-tv.jpg" group-title="Bangladeshi",Jamuna Television (Bciptv)
-http://15.1.1.34:8282/jamuna-tv/tracks-v1a1/mono.m3u8
+http://15.1.1.34:8282/jamuna-tv/tracks-v1a1/mono.m3u8?token=83c1fa8f951db849ce4027aadcd95d083b0125ca-d1a09756a89c17e93d0522a1a53ada02-1692732622-1692721822
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/300px-Channel24logo.svg.png" group-title="Bangladeshi",Channel 24 (Bciptv)
 http://15.1.1.34:8282/Channel24/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/300px-News24logo%28BD%29.jpg" group-title="Bangladeshi",News24 (Bciptv)
-http://15.1.1.10:8282/News24bd/tracks-v1a1/mono.m3u8
+http://15.1.1.34:8282/Channel24/tracks-v1a1/mono.m3u8?token=2b30f93bc3760000c3f223772d46cb143ebc21c3-1f7ff1d6612737a50b5689fb89f5086a-1692732649-1692721849
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="Bangladeshi",DBC News (Bciptv)
-http://15.1.1.34:8282/DBC-NEWS/tracks-v1a1/mono.m3u8
+http://15.1.1.34:8282/DBC-NEWS/tracks-v1a1/mono.m3u8?token=5a61abef250ffaafd1461901fac8930586891edb-f3fd056b8416fc86fea64a89d14884a5-1692732680-1692721880
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/180px-ATN_News_Logo_3.GIF" group-title="Bangladeshi",ATN News (Bciptv)
-http://15.1.5.10:8082/Atn-News/tracks-v1a1/mono.m3u8
+http://15.1.1.38:8282/Atn-News/tracks-v1a1/mono.m3u8?token=1f8722f5e6b9aa2c6fd33b341a4691f1d5f2d74d-84dcbc6187bdb5f06f6c8b9e570a74fa-1692732731-1692721931
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/300px-ATN_Bangla.svg.png" group-title="Bangladeshi",ATN Bangla (Bciptv)
-http://15.1.5.10:8082/ATN-Bangla/tracks-v1a1/mono.m3u8
+http://15.1.1.38:8282/ATN-Bangla/tracks-v1a1/mono.m3u8?token=b9a32263930d1478eaab3cf0b9a5147da8c69355-b606df3de5745284044bf08503856c8e-1692732762-1692721962
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="Bangladeshi", ATN Bangla (JagoBD)
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/300px-Channel-i.svg.png?20130828195547" group-title="Bangladeshi",Channel i (Bciptv)
-http://15.1.1.38:8282/Channel-i/tracks-v1a1/mono.m3u8
+http://15.1.1.38:8282/Channel-i/tracks-v1a1/mono.m3u8?token=296786574208b3c2eae7719a38999b322780af30-17d7cfd119a83731d867d9a6d9f832cc-1692732834-1692722034
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/300px-Ekushey_Television_Logo.svg.png" group-title="Bangladeshi",Ekushey Television (Bciptv
 http://15.1.1.38:8282/Ekushey-TV/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/300px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangladeshi",NTV (Bciptv)
