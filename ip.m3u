@@ -131,7 +131,7 @@ http://15.1.1.34:8282/star-movies-hd/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Sony_Pix_new.png/270px-Sony_Pix_new.png" group-title="English",Sony Pix (Bciptv)
 http://15.1.1.10:8282/sony-pix-hd/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://img.freepik.com/premium-vector/live-stream-logo-live-streaming-icon-live-broadcasting-button_349999-639.jpg?w=2000" group-title="Sports",Live (Bciptv)
-http://15.1.5.10:8082/1LIVE/tracks-v1a1/mono.m3u8
+http://15.1.1.34:8282/1LIVE/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436" group-title="Sports",Star Sport 1 (Bciptv)
 http://15.1.1.34:8282/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdmVZzCfI2mw2x6GvuuuQEjbgI5wgs5fMiJK9aiDHT&s" group-title="Sports",Star Sports Select 1 (Bciptv)
@@ -143,9 +143,9 @@ http://15.1.1.34:8282/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest?cb=20191214234112" group-title="Sports",Star Sport 3 (Bciptv)
 http://15.1.1.10:8282/STAR-SPORTS-3/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Sony-Six.png" group-title="Sports",Sony Six(Bciptv)
-http://15.1.1.34:8282/sony-six-hd/tracks-v1a1/mono.m3u8
+http://15.1.1.38:8282/sony-six-hd/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony Sport 1 (Bciptv)
-http://15.1.1.34:8282/ten1-hd/tracks-v1a1/mono.m3u8
+http://15.1.1.38:8282/ten1-hd/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" group-title="Sports",Sony Sport 2 (Bciptv)
 http://15.1.1.34:8282/sony-ten2/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png" group-title="Sports",Sony Sport 3 (Bciptv)
