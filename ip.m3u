@@ -73,3 +73,5 @@ http://cdn01.palki.tv/live/BijoyTV-M/tracks-v2a1/mono.m3u8
 https://cdn.retosprime.com/ayna.php?id=19&e=.m3u8
 #EXTINF:-1 group-title="BANGLADESHI;Sports" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png",T Sports
 https://cdn.retosprime.com/ayna.php?id=27&e=.m3u8
+#EXTINF:-1 tvg-name="WELT" tvg-id="n24.de" group-title="Nachrichten;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELT
+http://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8
