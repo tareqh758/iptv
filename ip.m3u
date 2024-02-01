@@ -190,8 +190,7 @@ https://bongohub.pw/bioscope.php?cc=colors-rishtey
 
 
 Islam Hasan Tv 
-#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/Jj2Ltj6/image.png",Atn Islamik
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.postimg.cc/CMNKxzbY/main-logo.png",Peace Tv
 http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.imgur.com/9gffd60.png",Makkah Tv
@@ -494,7 +493,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathihd/default/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",
+
 hasan tv indian movies 
  
 #EXTINF:-1 group-title="INDIAN MOVIES " tvg-logo="https://i.postimg.cc/mkp3kxFJ/pictures.png",& Picture
@@ -665,7 +664,7 @@ https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
 https://raw.githubusercontent.com/shiki57/infinitysports/main/discovery.m3u8
 #EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="DOCUMENTARY", Discovary 4
 https://mhdtvworld.co.in/delta/discovery/api/Discovery_Hindi.m3u8
-#EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.postimg.cc/g28Z2QmT/download-8.png" group-title="Documentary", NAT GEO Wild
+#EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.postimg.cc/g28Z2QmT/download-8.png" group-title="DOCUMENTARY", NAT GEO Wild
 https://s.id/2167I
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/57d5f485-7397-46f0-848f-a164af72659d_180x180_historychannel.jpeg",History Channel 
 http://38.96.178.201/live/History/index.m3u8
