@@ -66,7 +66,7 @@ https://bongohub.pw/bioscope.php?cc=ntv
 https://bongohub.pw/bioscope.php?cc=bangla-vision
 #EXTINF:-1 tvg-id="21" tvg-name="Channel I" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/b5044b33-4092-427d-9c55-2c8d149521ac/ba9b4024-e67a-4ca6-9030-5a2d08475e52.png?width=300" tvg-chno="1" group-title="BANGLADESHI",Channel I
 https://bongohub.pw/bioscope.php?cc=channel-i
-#EXTINF:-1 tvg-id="15" tvg-name="Channel 24" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/457da297-6c4a-4879-96f5-34b6b2067c7a/6daf2b2c-44e4-40bb-8b39-1f596c98d249.png?width=300" tvg-chno="1" group-title="BANGLADESHI",Rajdhani TV
+#EXTINF:-1 tvg-id="15" tvg-name="Channel 24" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/457da297-6c4a-4879-96f5-34b6b2067c7a/6daf2b2c-44e4-40bb-8b39-1f596c98d249.png?width=300" tvg-chno="1" group-title="BANGLADESHI",Channel 24
 https://bongohub.pw/bioscope.php?cc=channel-24
 #EXTINF:-1 tvg-id="23" tvg-name="Boishakhi Television" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/3a2dc3ab-3f2e-4508-93e6-0f76fe090228/75f82d30-06b2-46a0-aa15-483058e0e482.png?width=300" tvg-chno="1" group-title="BANGLADESHI",Boishakhi Television
 https://bongohub.pw/bioscope.php?cc=boishakhi-tv
@@ -191,7 +191,7 @@ https://bongohub.pw/bioscope.php?cc=colors-rishtey
 
 Islam Hasan Tv 
 
-#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.postimg.cc/CMNKxzbY/main-logo.png",Peace Tv
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://assets.peacetv.tv/images/section-lang/bangla/ba-logo.png",Peace Tv
 http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.imgur.com/9gffd60.png",Makkah Tv
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/makkahtv.stream/live-orgin/makkahtv.stream/chunks.m3u8
@@ -240,6 +240,8 @@ https://cdn.retosprime.com/ayna.php?id=14&e=.m3u8
 https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/cbKPtLB/atnbangla.png",Atn Bangla Uk
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/chunks.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/Jj2Ltj6/image.png",Atn Islamic
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png",Bangla Vision 
 https://livess.jagobd.com.bd/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png",Boishakhi Tv
@@ -385,7 +387,7 @@ http://195.26.87.217/live.ts?channelId=394&uid=7435&deviceMac=00:1A:79:51:4B:3A
 http://195.26.87.217/live.ts?channelId=74228&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.imgur.com/nQRAjih.jpg",Green Entertainment 
 http://195.26.87.217/live.ts?channelId=393&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/RnWZ864.png",KBS World 
+#EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3nc1SQ-45WNpvtfsbmk1bfXNxx9kzyDBu34V4MqZPQQ&s",ATN Music
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 
 
