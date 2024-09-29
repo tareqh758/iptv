@@ -1,0 +1,14 @@
+
+#EXTM3U
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/3Qd5fSx.png",Sony Sports 1 HD
+http://172.16.29.2:8080/hls/sonyten1.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/6ezUY5q.png",Sony Sports 2 HD
+http://172.16.29.2:8080/hls/sonyten2.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/OcBylY2.jpg",Star Sports Select 1
+http://172.16.29.2:8080/hls/sss1.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/4mi15gR.jpg",Star Sports Select 2
+http://172.16.29.2:8080/hls/sss2.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q4KBIme.png",Star Sports 1
+http://172.16.29.2:8080/hls/ssports1hd.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/B6u40R7.jpg",Star Sports 2
+http://172.16.29.2:8080/hls/ssports2hd.m3u8
