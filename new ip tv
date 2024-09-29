@@ -14,6 +14,11 @@ http://172.16.29.2:8080/hls/ssports1hd.m3u8
 http://172.16.29.2:8080/hls/ssports2hd.m3u8
 
 
+
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/eJS0vGk.jpg",BTV World
+http://xtv.ooo:8080/live/518340/238497/245930.ts
+
+
 #EXTM3U
 #EXTINF:-1 group-title="BANGLA-MOVIES-HD" tvg-logo="https://i.postimg.cc/k4V4vwmj/Movies-720p.png",24/7-HD-1
 http://starshare.live:8080/live/Paul1/Paul1/136495.ts
