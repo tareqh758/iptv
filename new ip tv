@@ -19,7 +19,6 @@ http://172.16.29.2:8080/hls/bein1.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/9fd5Oq8.png",beIN Sports 2 (BDIX)
 http://172.16.29.2:8080/hls/bein2.m3u8
 
-
 Bangladeshi 
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/hR57wkL/Jamuna-Tv1664825738.jpg",Jamuna Tv (BDIX)
 http://172.16.29.2:8080/hls/jamunatv.m3u8
