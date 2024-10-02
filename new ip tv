@@ -1,19 +1,39 @@
 
 #EXTM3U
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/3Qd5fSx.png",Sony Sports 1 HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/3Qd5fSx.png",Sony Sports 1 HD (BDIX)
 http://172.16.29.2:8080/hls/sonyten1.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/6ezUY5q.png",Sony Sports 2 HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/6ezUY5q.png",Sony Sports 2 HD (BDIX)
 http://172.16.29.2:8080/hls/sonyten2.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/OcBylY2.jpg",Star Sports Select 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/OcBylY2.jpg",Star Sports Select 1 (BDIX)
 http://172.16.29.2:8080/hls/sss1.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/4mi15gR.jpg",Star Sports Select 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/4mi15gR.jpg",Star Sports Select 2 (BDIX)
 http://172.16.29.2:8080/hls/sss2.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q4KBIme.png",Star Sports 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q4KBIme.png",Star Sports 1 (BDIX)
 http://172.16.29.2:8080/hls/ssports1hd.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/B6u40R7.jpg",Star Sports 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/B6u40R7.jpg",Star Sports 2 (BDIX)
 http://172.16.29.2:8080/hls/ssports2hd.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbMdMT6RbARTBfVI38LhwxZRH4hNhja4089A&s",Sports 18 (BDIX)
+http://172.16.29.2:8080/hls/sports18.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/5exn7j1631279352.png" group-title="SPORTS", beIN Sports 1 (BDIX)
+http://172.16.29.2:8080/hls/bein1.m3u8  
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/9fd5Oq8.png",beIN Sports 2 (BDIX)
+http://172.16.29.2:8080/hls/bein2.m3u8
 
 
+Bangladeshi 
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/hR57wkL/Jamuna-Tv1664825738.jpg",Jamuna Tv (BDIX)
+http://172.16.29.2:8080/hls/jamunatv.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",Duronto TV (BDIX)
+http://172.16.29.2:8080/hls/duronto.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports HD (BDIX)
+http://172.16.29.2:8080/hls/tsportshdL.m3u8
+
+Hindi Movie 
+
+#EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="INDIAN", SONY MAX HD (BDIX)
+http://172.16.29.2:8080/hls/sonymaxhd.m3u8
+#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/rsjnFPmy/sjM1MbFR.png",Zee Cinema HD (BDIX)
+http://172.16.29.2:8080/hls/zeechd.m3u8
 
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/eJS0vGk.jpg",BTV World
 http://xtv.ooo:8080/live/518340/238497/245930.ts
