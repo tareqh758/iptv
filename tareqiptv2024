@@ -1,1 +1,3 @@
-ta
+#EXTM3U
+#EXTINF:-1 tvg-id="18" tvg-name="Gazi TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2f2ba44d-d6a4-4ec3-9d32-6330d9290ed9_180x180_Gtv.jpg" tvg-chno="18" group-title="SPORTS",Gazi TV
+https://starshare.live:443/live/3569087360/6542246996/767.ts
