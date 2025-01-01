@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="18" tvg-name="Gazi TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2f2ba44d-d6a4-4ec3-9d32-6330d9290ed9_180x180_Gtv.jpg" tvg-chno="18" group-title="SPORTS",Gazi TV
 https://starshare.live:443/live/3569087360/6542246996/767.ts
+#EXTINF:-1 tvg-id="32" tvg-name="BTV World" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/4618531f-8ebb-44eb-9bae-92761450b3a7/62ce2f8c-8b4a-4956-ad33-f7b8be13636c.png?width=300" tvg-chno="1" group-title="BANGLADESHI",BTV World
+https://starshare.live:443/live/3569087360/6542246996/998.ts
+#EXTINF:-1 tvg-id="12" tvg-name="Ekattor TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/1d8f4e21-cb22-42e8-a02c-d138e4f30266/9f818c01-ee22-4a4d-8858-32f5be1ce97f.png?width=300" tvg-chno="1" group-title="BANGLADESHI",Ekattor TV
+https://starshare.live:443/live/3569087360/6542246996/428.ts
